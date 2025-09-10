@@ -78,13 +78,13 @@ grid on; % Enable grid
 
 # images
 
-![image](/Images/ss2.png)
-![image](/Images/ss2.png)
-![image](/Images/ss2.png)
-![image](/Images/ss2.png)
-![image](/Images/ss2.png)
-![image](/Images/ss2.png)
-![image](/Images/ss2.png)
+![image](/images/1.png)
+![image](/images/2.png)
+![image](/images/3.png)
+![image](/images/4.png)
+![image](/images/5.png)
+![image](/images/6.png)
+![image](/images/7.png)
 
 # Short description
 This MATLAB script generates and plots basic continuous-time signals—impulse, step, ramp, exponential, signum, and sinc—individually and together. These signals are fundamental building blocks in signal processing and control systems.
