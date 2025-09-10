@@ -87,4 +87,22 @@ grid on; % Enable grid
 ![image](/images/7.png)
 
 # Short description
-This MATLAB script generates and plots basic continuous-time signals—impulse, step, ramp, exponential, signum, and sinc—individually and together. These signals are fundamental building blocks in signal processing and control systems.
+# Signal Generation in MATLAB
+
+## 📌 Short Description of the Signals
+- **Impulse (δ(t))** – Instantaneous pulse, 1 at *t = 0*, 0 elsewhere.  
+- **Step (u(t))** – 0 for *t < 0*, 1 for *t ≥ 0*.  
+- **Ramp (r(t))** – Linearly increasing for *t ≥ 0*.  
+- **Exponential (e^t)** – Exponentially increasing signal.  
+- **Signum (sgn(t))** – –1 for *t < 0*, 0 at *t = 0*, +1 for *t > 0*.  
+- **Sinc (sinc(t))** – Symmetric function used in Fourier analysis.  
+
+---
+
+## 📌 Instructions to Run the Code
+1. Copy the MATLAB script into a new file (e.g., `ASS2.m`).  
+2. Save the file in your MATLAB working directory.  
+3. Run the script by typing:
+   ```matlab
+   ASS2
+
